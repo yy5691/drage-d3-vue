@@ -1,24 +1,6 @@
-# charts-demo-js
+# 前端实现流程图绘制
 
-## Project setup
-```
-yarn install
-```
+## 运行demo
+yarn install || npm install
+yarn serve || npm run serve
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
